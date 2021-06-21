@@ -1,0 +1,1 @@
+COOKIES_MAX_AGE = 72 * 60 * 60
